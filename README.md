@@ -2,4 +2,4 @@ This is a python project compatible with Windows. It includes a .exe file (in th
 
 Note that in the fun_aux file, the name variable can be changed so the program does not refer to the user as just "Friend".  Note that if this program is sent to someone and this change is made in the source code, one will need to re-bundle it with pyinstaller or something else.  
 
-See my profiles for questions.  Here is how to recreate an environment from a YAML file with Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#
+See my profile for questions.  Here is how to recreate an environment from a YAML file with Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#
